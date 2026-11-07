@@ -1,6 +1,6 @@
 # 📚 Flashcard Quiz App
 
-A simple, clean, and interactive Android Flashcard Quiz App developed as **Task 1 of the CodeAlpha App Development Internship**.
+A simple, clean, and interactive Android Flashcard Quiz App developed as an **App Development Internship project**.
 
 The app helps users study using digital flashcards: view a question, reveal the answer, and move between cards using Previous and Next navigation. Users can also manage their own flashcards by adding, editing, and deleting cards.
 
@@ -27,7 +27,7 @@ The app helps users study using digital flashcards: view a question, reveal the 
 ## 📂 Project Structure
 
 ```text
-CodeAlpha_FlashCardQuizApp/
+FlashCardQuizApp/
 ├── app/
 │   ├── src/
 │   │   ├── main/
@@ -158,12 +158,12 @@ Keep Google Play Protect enabled when installing APKs from outside Google Play.
 
 GitHub Actions is configured to automatically build the Android project and provide a signed Release APK artifact from successful workflow runs.
 
-## 🎯 CodeAlpha Internship
+## 🎯 Internship Project
 
-**Program:** CodeAlpha App Development Internship  
+**Program:** App Development Internship  
 **Task:** Task 1 — Flashcard Quiz App
 
-This project was created to satisfy the Flashcard Quiz App requirements provided for the CodeAlpha App Development Internship.
+This project was created to satisfy the Flashcard Quiz App requirements for an App Development Internship.
 
 ### Task Requirements Covered
 
@@ -187,8 +187,8 @@ The repository contains application UI screenshots demonstrating the flashcard i
 ## 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/saba1207B/CodeAlpha_FlashCardQuizApp.git
-cd CodeAlpha_FlashCardQuizApp
+git clone https://github.com/saba1207B/FlashCardQuizApp.git
+cd FlashCardQuizApp
 ```
 
 ## 👨‍💻 Developer
@@ -198,4 +198,4 @@ GitHub: [@saba1207B](https://github.com/saba1207B)
 
 ## 📄 License
 
-This project was developed for educational and internship purposes as part of the CodeAlpha App Development Internship.
+This project was developed for educational and internship purposes as part of an App Development Internship.
